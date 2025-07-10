@@ -52,12 +52,12 @@ On this page, you will see the behind the scenes footage or the workings done be
 ## FINAL TWO PAGES
 
 ### PAGE 9: MAIN DASHBOARD PAGE 1 
-![DBP1](/Visuals/Bonus%20Visuals/Page1_Walkthrough.gif)
+![Data Jobs Dashboard Page 1](/Visuals/Page1_Walkthrough.gif)
 **Based on the past 8 PAGES, this dashboard invites you to visit the Job Variability in the world of Data Sciene and explore How behind it.**
 
 
 
 
 ### PAGE X: MAIN DASHBOARD PAGE 2
-![DBP2](/Visuals/Bonus%20Visuals/Page2_Walkthrough.gif)
+![Data Jobs Dashboard Page 1](/Visuals/Page2_Walkthrough.gif)
 **This page takes you to the advanced version of the main dashboard but at the cost of visiting only 1 Job AKA Job Drill-Through.**
