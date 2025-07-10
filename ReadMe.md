@@ -54,4 +54,5 @@ This dashboard shows how Power BI can turn raw job posting data into an interact
 ## Credits: 
 The project was inspired by the online course [Power BI for Data Analytics - Full Course for Beginners](https://www.lukebarousse.com/powerbi) by [Luke Barousse](https://github.com/lukebarousse).
 
-### To see bonus viuals [click here](/Visuals/Bonus%20Visuals/Bonus_ReadMe.md)
+### Bonus Content
+To see bonus viuals [click here](/Visuals/Bonus%20Visuals/Bonus_ReadMe.md)
