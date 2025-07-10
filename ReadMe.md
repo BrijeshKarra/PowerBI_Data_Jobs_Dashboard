@@ -14,7 +14,7 @@ This project includes **two-page interactive Power BI dashboard** using a real d
 ## Files Included
 - [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix) – Main Power BI report file
 
-- [`Bonus Visuals`](Bonus_ReadMe.md)- See at the end of page.
+- [`Bonus Visuals`]()- See at the end of page.
 
 ## Skills Practiced
 - **Data Cleaning:**  Removed nulls, changed data types, and created calculated columns  
