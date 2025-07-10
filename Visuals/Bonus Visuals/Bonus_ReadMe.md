@@ -53,7 +53,7 @@ On this page, you will see the behind the scenes footage or the workings done be
 
 ### PAGE 9: MAIN DASHBOARD PAGE 1 
 ![Data Jobs Dashboard Page 1](/Visuals/Page1_Walkthrough.gif)
-**Based on the past 8 PAGES, this dashboard invites you to visit the Job Variability in the world of Data Sciene and explore How behind it.**
+**Based on the past 8 PAGES, this dashboard invites you to visit the Job Variability in the world of Data Science and explore the How behind it.**
 
 
 
