@@ -4,7 +4,7 @@
 
 ## Introduction
 
-_This dashboard invites you to visit the Job Variability in the world of Data Sciene and explore the How behind it._
+_This dashboard invites you to visit the Job Variability in the world of Data Science and explore the How behind it._
 
 ## Project Summary
 This project includes **two-page interactive Power BI dashboard** using a real dataset of 2024 data job postings, allowing users—especially tech job seekers—to explore key market trends such as job titles, salaries, and locations through clear and interactive visuals.
